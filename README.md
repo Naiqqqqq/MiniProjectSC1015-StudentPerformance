@@ -24,9 +24,9 @@ https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
 
 
 ### What have we learnt?
-One-Hot Encoding
+One-Hot Encoding  
 
-Random Forest
+Random Forest  
 
 Collaborating using Github
 
