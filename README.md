@@ -1,4 +1,5 @@
 # MiniProjectSC1015-StudentPerformance
+![image](https://user-images.githubusercontent.com/127915734/233797180-b74e1cdf-b54e-4fca-a827-f5b1249a81a2.png)
 
 ## About
 
