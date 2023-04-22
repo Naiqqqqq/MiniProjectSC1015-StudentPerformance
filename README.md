@@ -16,6 +16,7 @@ https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
 
 ### Exploratory Data Analysis % Machine Learning
 [Exploratory Data Analysis and Data Cleaning](https://github.com/Naiqqqqq/MiniProjectSC1015-StudentPerformance/blob/main/Data%20Sets/Jupyter%20Notebooks/ExploratoryDataAnalysis.ipynb)
+
 [Machine Learning](https://github.com/Naiqqqqq/MiniProjectSC1015-StudentPerformance/blob/main/Data%20Sets/Jupyter%20Notebooks/MachineLearning.ipynb)
 
 
