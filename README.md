@@ -8,7 +8,7 @@ This is a Mini-Project for SC1015.
 How can we help students improve their learning proficiency in their respective mother tongue?
 
 ### Motivation
-Singapore is a multicultural society with a bilingual policy that emphasises the importance of being proficient in both English and one’s mother tongue. Besides language proficiency, it is also about preserving cultural identity and heritage. Being fluent in our mother tongue can also help us communicate effectively with our grandparents, or the older generation who are not fluent in English. Research has also shown that being proficient  in one's mother tongue has multiple benefits. On top of boosting overall academic performance, it also improves cognitive abilities, delays the onset of dementia and enhances an individual's memory. 
+Singapore is a multicultural society with a bilingual policy that emphasises the importance of being proficient in both English and one’s mother tongue. Besides language proficiency, it is also about preserving cultural identity and heritage. Being fluent in our mother tongue can also help us communicate effectively with our grandparents, or the older generation who are not fluent in English. Research has also shown that being proficient in one's mother tongue has multiple benefits. On top of boosting overall academic performance, it also improves cognitive abilities, delays the onset of dementia and enhances an individual's memory. 
 
 ### Data Set
 UCI Learning Machine: Student Alcohol Consumption (Kaggle)
@@ -21,11 +21,22 @@ https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
 
 ### Conclusion
 
-
+### Software used
+- Davinci Resolve  
+- Powerpoint  
+- Jupyter Notebook  
 
 ### What have we learnt?
-One-Hot Encoding  
-Random Forest  
-Collaborating using Github
+- One-Hot Encoding  
+- Random Forest  
+- Support Vector Regression Model
+- Video editing
+- Collaborating using Github
 
+### Contributors
+- Lew Qian Le: Data cleaning, conclusion and Video creation  
+- Tan Ming Soon: Data preparation and Exploratory Data Analysis
+- Priya Rekah: Machine Learning and data preparation 
 
+#### Video Link
+- [Video](https://youtu.be/tqgs2c2BAY4)
