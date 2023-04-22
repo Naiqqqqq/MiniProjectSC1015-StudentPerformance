@@ -33,7 +33,7 @@ Top three variables that are affecting a student’s grades:
 
 ### Software used
 - Davinci Resolve  
-- Powerpoint  
+- Microsoft Powerpoint  
 - Jupyter Notebook  
 
 ### What have we learnt?
