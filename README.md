@@ -27,8 +27,8 @@ Top three variables that are affecting a student’s grades:
   - As past failures greatly affect a student’s results, parents or teachers can intervene earlier to help the student build a strong foundation.  
 2. Absences  
   - We feel that students must be responsible for their own attendance, be it they have other activites or the are sick, they should refrain from missing school as much as possible  
-3.Desire for higher education  
-  - Parents and teachers can help to change the mindset of students who do not desire a higher education and find out the reason behind it. As this is one of the major factors affecting their results.
+3. Desire for higher education  
+  - Parents and teachers can help to change the mindset of students who do not desire a higher education and find out the reason behind it. As this is one of the major factors affecting their results. 
 
 ### Software used
 - Davinci Resolve  
