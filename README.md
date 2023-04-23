@@ -51,7 +51,7 @@ Top three variables that are affecting a student’s grades:
 #### Video Link
 - [Video](https://youtu.be/tqgs2c2BAY4)
 
-#### References
+### References
 
 1) K, Gurucharan M. “Machine Learning Basics: Support Vector Regression.” Medium, 18 July 2020, https://towardsdatascience.com/machine-learning-basics-support-vector-regression-660306ac5226.
 2) Beheshti, Nima. “Random Forest Regression.” Medium, 2 Mar. 2022, https://towardsdatascience.com/random-forest-regression-5f605132d19d.
