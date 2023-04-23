@@ -50,6 +50,7 @@ Top three variables that are affecting a student’s grades:
 
 #### Video Link
 - [Video](https://youtu.be/tqgs2c2BAY4)
+
 #### References
 
 -[Support Vector Regression] 
@@ -58,7 +59,6 @@ K, Gurucharan M. “Machine Learning Basics: Support Vector Regression.” Mediu
 Beheshti, Nima. “Random Forest Regression.” Medium, 2 Mar. 2022, https://towardsdatascience.com/random-forest-regression-5f605132d19d.
 -[One-Hot Encoding]
 Nik. “One-Hot Encoding in Scikit-Learn with OneHotEncoder • Datagy.” Datagy, 23 Feb. 2022, https://datagy.io/sklearn-one-hot-encode/.
--
-(Beheshti)
+
 
 
