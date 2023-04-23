@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
 [Machine Learning](https://github.com/Naiqqqqq/MiniProjectSC1015-StudentPerformance/blob/main/Data%20Sets/Jupyter%20Notebooks/MachineLearning.ipynb)
 
 ### Conclusion
-- Overall, as a solution, parents or teachers can predict their student or child’s results and also see which areas are affecting their grades. Thereafter, they can help them to achieve better grades.  
+- Overall, as a solution, parents or teachers can predict their student or child’s results and also see which factors are affecting their grades. Thereafter, they can help them to achieve better grades.  
 ###### Data Driven Insights
 Top three variables that are affecting a student’s grades:  
 1. Failures  
@@ -46,7 +46,8 @@ Top three variables that are affecting a student’s grades:
 ### Contributors
 - Lew Qian Le: Data cleaning, conclusion and Video creation  
 - Tan Ming Soon: Data preparation and Exploratory Data Analysis
-- Priya Rekah: Machine Learning and data preparation 
+- Priya Rekah: Machine Learning and Data preparation 
 
 #### Video Link
 - [Video](https://youtu.be/tqgs2c2BAY4)
+
