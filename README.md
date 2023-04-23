@@ -53,9 +53,11 @@ Top three variables that are affecting a student’s grades:
 
 ### References
 
-1) K, Gurucharan M. “Machine Learning Basics: Support Vector Regression.” Medium, 18 July 2020, https://towardsdatascience.com/machine-learning-basics-support-vector-regression-660306ac5226.
-2) Beheshti, Nima. “Random Forest Regression.” Medium, 2 Mar. 2022, https://towardsdatascience.com/random-forest-regression-5f605132d19d.
-3) Nik. “One-Hot Encoding in Scikit-Learn with OneHotEncoder • Datagy.” Datagy, 23 Feb. 2022, https://datagy.io/sklearn-one-hot-encode/.
+1) K, G. M. (2020, July 18). Machine learning basics: Support vector regression. Medium. https://towardsdatascience.com/machine-learning-basics-support-vector-regression-660306ac5226
+2) Beheshti, N. (2022, March 2). Random forest regression. Medium. https://towardsdatascience.com/random-forest-regression-5f605132d19d
+3) Nik. (2022, February 23). One-hot encoding in scikit-learn with onehotencoder • datagy. Datagy. https://datagy.io/sklearn-one-hot-encode/
+4) Google colaboratory. (n.d.). Retrieved April 23, 2023, from https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb
+
 
 
 
